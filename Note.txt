@@ -1,0 +1,6 @@
+catatan.html + biodata.css = pengenalan
+beranda.html + style.css = latar belakang
+isi.html + isi.css = pembahasan
+
+Untuk file beranda.html lebih baik dibuka dengan microsoft edge atau lainnya, karena jika menggunakan google chrome
+tidak bisa memutar audio secara otomatis
